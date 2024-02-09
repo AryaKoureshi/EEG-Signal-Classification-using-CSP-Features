@@ -48,13 +48,7 @@ git clone https://github.com/your_username/EEG-Signal-Classification-using-CSP-F
 cd EEG-Signal-Classification-using-CSP-Features
 ```
 
-3. Run the Python script `EEG_Classification_CSP.py`. Ensure you have all dependencies installed.
-
-```bash
-python EEG_Classification_CSP.py
-```
-
-Or open the notebook (using Jupyter Lab or Jupyter Notebook):
+3. Open the notebook (using Jupyter Lab or Jupyter Notebook). Ensure you have all dependencies installed.
 
 ```bash
 EEG_Classification_CSP.ipynb
