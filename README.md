@@ -39,19 +39,25 @@ The EEG data is stored in the `CSPdata.mat` file, which contains training and te
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/your_username/EEG-Signal-Classification-using-CSP-Features.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your_repository
+cd EEG-Signal-Classification-using-CSP-Features
 ```
 
 3. Run the Python script `EEG_Classification_CSP.py`. Ensure you have all dependencies installed.
 
 ```bash
 python EEG_Classification_CSP.py
+```
+
+Or open the notebook (using Jupyter Lab or Jupyter Notebook):
+
+```bash
+EEG_Classification_CSP.ipynb
 ```
 
 ## Dependencies
