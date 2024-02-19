@@ -1,6 +1,6 @@
 # EEG Signal Classification using CSP Features
 
-This repository contains a Python implementation for solving a two-class classification problem using Common Spatial Pattern (CSP) features extracted from EEG data. The classification task involves discriminating between mental tasks, specifically imagining leg movement and performing mental discrimination. The project utilizes provided EEG datasets and implements various machine learning algorithms for classification.
+This repository contains a Python implementation for solving a two-class classification problem using Common Spatial Pattern (CSP) features extracted from EEG data. The classification task involves discriminating between mental tasks, specifically imagining foot movement and performing mental discrimination. The project utilizes provided EEG datasets and implements various machine learning algorithms for classification.
 
 ## Instructions
 
